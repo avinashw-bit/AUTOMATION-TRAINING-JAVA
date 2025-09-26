@@ -1,3 +1,4 @@
+package com.aw;
 public class Operatorspart2 {
 
     static int a = 10;

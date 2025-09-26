@@ -1,4 +1,4 @@
-package com;
+package com.aw;
 
 public class EvenOddprogram {
     public static void main(String[] args) {

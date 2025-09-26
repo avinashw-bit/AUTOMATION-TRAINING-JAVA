@@ -1,3 +1,4 @@
+package com.aw;
 import java.time.LocalTime;
 
 public class GoodMorAftEve {
